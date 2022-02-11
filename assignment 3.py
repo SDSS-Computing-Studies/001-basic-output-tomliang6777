@@ -1,0 +1,1 @@
+print("This is the first sentence.\nTHis is the second sentence.")
